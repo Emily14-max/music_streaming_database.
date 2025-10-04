@@ -1,0 +1,2 @@
+# music_streaming_database.
+supabase_postgreSQL_database_for_music_streaming_platform
