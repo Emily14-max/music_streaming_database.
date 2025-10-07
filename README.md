@@ -25,7 +25,9 @@
 
 # 📖 Music Streaming database <a name="about-project"></a>
 
-Music Streaming Database is a comprehensive PostgreSQL database designed for a modern music streaming platform using Supabase. This project demonstrates database fundamentals including schema design, relationships, constraints and data management for handling users, artists and songs in a streaming service environment.
+> A comprehensive PostgreSQL database designed for a modern music streaming platform using Supabase.
+
+This project demonstrates database fundamentals including schema design, relationships, constraints and data management for handling users, artists and songs in a streaming service environment.
 
 ## 🛠 Built With <a name="built-with"></a>
 
